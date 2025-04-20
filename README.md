@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @delightedadam
-- 👀 I’m interested in informatique in general
+- 👀 I’m interested in Computer science in general
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate with myself
 - 📫 yu can contact me in discord :delighted5826 
