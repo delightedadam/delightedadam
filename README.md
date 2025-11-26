@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @delightedadam
-- 👀 I’m interested in Computer science in general
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in Computer science in general and data science 
+- 🌱 I’m currently a student in computer science
 - 💞️ I’m looking to collaborate with myself
-- 📫 yu can contact me in discord :delighted5826 
+- 📫 yu can contact me in discord : delighted 
 - ⚡ speak french, spanish, english and arabic 
 
 <!---
