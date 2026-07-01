@@ -39,7 +39,6 @@ if you want anything, or if you'd like to talk about video games, here's how to 
 *   **Discord:** `delighted` 
 
 ---
-
 <p align="center">
-  <img src="https://capsule-render.vercelapp/api?type=soft&color=0052cc&height=40&animation=twinkling&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0072ff,30,00d2ff,100,7a00ff&height=140&section=footer" width="100%" />
 </p>
