@@ -10,7 +10,7 @@
 ###  About Me
 
 *   **I am interested in everything that is closely or remotely related to computer science, as well as linear algebra and probability**
-*   ** i speak French, English, Spanish, and Arabic **
+*   i speak French, English, Spanish, and Arabic 
 
 ---
 
