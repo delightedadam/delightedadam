@@ -36,9 +36,8 @@ Here are some of the tools and languages I play around with:
 
 if you want anything, or if you'd like to talk about video games, here's how to reach me ;)
 
-*   **Discord:** `delighted` 
-
----
+*   **Discord:** `delighted`
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0072ff,30,00d2ff,100,7a00ff&height=140&section=footer" width="100%" />
 </p>
