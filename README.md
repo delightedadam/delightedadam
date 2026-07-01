@@ -40,6 +40,7 @@ if you want anything, or if you'd like to talk about video games, here's how to 
 
 ---
 <!-- Effet de vagues bleues animées -->
+<!-- Effet barres de données animées -->
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=120&section=footer" width="100%" alt="footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0052cc&height=30&animation=twinkling&section=footer" width="100%" alt="footer bars" />
 </picture>
