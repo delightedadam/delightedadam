@@ -39,3 +39,7 @@ if you want anything, or if you'd like to talk about video games, here's how to 
 *   **Discord:** `delighted` 
 
 ---
+<!-- Effet de vagues bleues animées -->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=120&section=footer" width="100%" alt="footer wave" />
+</picture>
