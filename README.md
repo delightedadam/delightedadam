@@ -29,9 +29,9 @@ Here are some of the tools and languages I play around with:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-44B78B?style=for-the-badge&logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-0052CC?style=for-the-badge&logo=gitbook&logoColor=white)
-> **And way too many libraries to list them all!** (NumPy, Matplotlib, BeautifulSoup, Requests, and many more depending on the project...)
+> **And way too many libraries to list them all!** 
 ---
-**
+
 ###  Contact Me
 
 if you want anything, or if you'd like to talk about video games, here's how to reach me ;)
