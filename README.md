@@ -39,8 +39,6 @@ if you want anything, or if you'd like to talk about video games, here's how to 
 *   **Discord:** `delighted` 
 
 ---
-<!-- Effet de vagues bleues animées -->
-<!-- Effet barres de données animées -->
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0052cc&height=30&animation=twinkling&section=footer" width="100%" alt="footer bars" />
-</picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00d2ff&height=60&animation=fadeIn&section=footer&text=⚡%20System%20Online&fontSize=16&fontColor=ffffff" width="100%" />
+</p>
