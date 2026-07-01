@@ -10,7 +10,7 @@
 ###  About Me
 
 *   **I am interested in everything that is closely or remotely related to computer science, as well as linear algebra and probability**
-*   i speak French, English, Spanish, and Arabic 
+*   I speak French, English, Spanish, and Arabic 
 
 ---
 
@@ -36,7 +36,7 @@ Here are some of the tools and languages I play around with:
 
 ###  Contact Me
 
-if you want anything, or if you'd like to talk about video games, here's how to reach me ;)
+If you want anything, or if you'd like to talk about video games, here's how to reach me ;)
 
 *   **Discord:** `delighted`
   
