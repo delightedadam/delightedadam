@@ -31,11 +31,11 @@ Here are some of the tools and languages I play around with:
 ![Requests](https://img.shields.io/badge/Requests-0052CC?style=for-the-badge&logo=gitbook&logoColor=white)
 ---
 **
-###  Connect with Me
+###  Contact Me
 
-If you want to talk about code, math modeling, or why my code doesn't compile:
+if you want anything, or if you'd like to talk about video games, here's how to reach me ;)
 
-*   **Discord:** `delighted` 👾
+*   **Discord:** `delighted` 
 
 ---
 
