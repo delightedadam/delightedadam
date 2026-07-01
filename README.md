@@ -38,7 +38,3 @@ if you want anything, or if you'd like to talk about video games, here's how to 
 *   **Discord:** `delighted` 
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delightedadam&show_icons=true&theme=visual_studio_dark" alt="Adam's GitHub Stats" />
-</p>
