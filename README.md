@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Focus-Computer_Science_%26_Data_Science-blueviolet?style=for-the-badge&logo=python" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-L1_Student-darkgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-CS_Student-darkgreen?style=for-the-badge" alt="Status" />
 </p>
 
 ---
